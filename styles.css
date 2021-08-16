@@ -1,0 +1,149 @@
+
+body{
+    color: #40514E;
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 1.1em;
+
+}
+h1{ 
+    font-size: 4.375rem; /*90px or 562.5%*/
+    font-family: 'Sacramento', cursive;
+    margin: 70px auto 0;
+    color: #66BFBF;
+    line-height: 1em;
+
+   /* margin-top: 0px; */
+
+    /* width: 20%;
+    margin: 0 auto 0 auto; /* margin: 0 auto; */
+
+    /* position: relative;
+    right: 30px; */
+    /* position: absolute;
+    right: 1000px; */
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    color: #66BFBF;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+
+#subtitle{
+    font-weight: bold;
+}
+.top-container{
+    position: relative;
+    background-color:#EAF6F6;
+    padding-top:40px ;
+}
+
+.top-cloud{
+    position:absolute;
+    top: 30px;
+    right: 300px;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+   bottom:340px;
+}
+.laptop{
+    position: absolute;
+    height: 90px;
+    top: 80px;
+    left: 200px;
+
+}
+.middle-container{
+    margin: 100px auto;
+
+}
+#intro{
+    width: 50%;
+    margin: auto;
+}
+p {
+    line-height: 2;
+}
+.skill-row{
+    /* display: inline-block;  or */
+    margin: 100px auto 100px auto;
+    width: 50%;
+    text-align: left;
+}
+.skill1{
+    height: 175px;
+    float: left;
+    /* position: relative;
+    right: 30px; or */
+    margin-right: 30px;
+}
+.skill2{
+    height: 175px;
+    float: right;
+    margin-left:30px ;
+}
+
+hr{
+    width: 3%;
+    border: none;
+    border-width: 4px;
+    border-top: dotted 4px grey;
+    margin: 100px auto;
+}
+.contact-me{
+    margin: 70px auto;
+}
+.contact-msg{
+    width: 40%;
+    margin: 40px auto 60px;
+}
+.btn {
+    -webkit-border-radius: 10;
+    -moz-border-radius: 10;
+    border-radius: 10px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 22px;
+    background: #66BFBF;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+
+  .bottom-container{
+      background-color: #66BFBF ;
+      padding: 50px 0 20px;
+  }
+a{
+    color: #11999E;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+a:hover{
+    color: #EAF6F6;
+}
+
+#last{
+     color:#EAF6F6;
+     font-size: 0.75erm;
+     padding: 20px 0;
+
+  }
+/* .para1{
+    clear: left;
+}
+.para2{
+    clear: right;
+} */
+/* ********span (web word)********** */
+/* .web{
+    text-decoration: underline;
+    visibility: hidden;
+    display: none;
+} */
